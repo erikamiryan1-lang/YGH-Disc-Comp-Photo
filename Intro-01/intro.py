@@ -1,12 +1,12 @@
 ###################
 ## EXAMPLE: strings 
 ###################
-#hi = "hello there"
-#name = "ana"
-#greet = hi + name  
-#print(greet)
-#greeting = hi + " " + name
-#print(greeting)
+hi = "hello there"
+name = "ana"
+greet = hi + name  
+print(greet)
+greeting = hi + " " + name
+print(greeting)
 #silly = hi + (" " + name)*3
 #print(silly)
 
@@ -33,17 +33,17 @@
 ####################
 ## EXAMPLE: conditionals/branching 
 ####################
-#x = float(input("Enter a number for x: "))
-#y = float(input("Enter a number for y: "))
-#if x == y:
+# x = float(input("Enter a number for x: "))
+# y = float(input("Enter a number for y: "))
+# if x == y:
 #    print("x and y are equal")
 #    if y != 0:
 #        print("therefore, x / y is", x/y)
-#elif x < y:
+# elif x < y:
 #    print("x is smaller")
-#elif x > y:
+# elif x > y:
 #    print("y is smaller")
-#print("thanks!")
+# print("thanks!")
 
 
 
